@@ -12,6 +12,6 @@ This repository contains:
 
 ```sh
 $ python healthjump.py
-prints dataframe of patients with first name A, B and C
+#prints dataframe of patients with first name A, B and C
 ```
 
